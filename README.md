@@ -1,0 +1,1 @@
+# zsh-nvm-auto-switch
