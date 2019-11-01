@@ -38,3 +38,9 @@ Automatically switch versions of node by looking for a .nvmrc file in the path t
     ```
 
 3. Start a new terminal session.
+
+## Acknowledgments
+
+* [nvm-auto](https://github.com/dijitalmunky/nvm-auto)
+* [nvm-auto-switch](https://github.com/lalitkapoor/nvm-auto-switch)
+* [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
