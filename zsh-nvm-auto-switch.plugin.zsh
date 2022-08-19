@@ -21,3 +21,4 @@ function nvm_auto_switch {
 
 autoload -U add-zsh-hook
 add-zsh-hook chpwd nvm_auto_switch
+nvm_auto_switch
